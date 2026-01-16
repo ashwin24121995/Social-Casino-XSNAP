@@ -147,7 +147,7 @@
           </div>
           
           <div class="mt-4">
-            <a href="games/dice.php" class="btn btn-lg text-white me-2" style="background: linear-gradient(145deg, #7B2CBF, #9D4EDD); border: 2px solid #FFD700;">
+            <a href="games.php" class="btn btn-lg text-white me-2" style="background: linear-gradient(145deg, #7B2CBF, #9D4EDD); border: 2px solid #FFD700;">
               <i class="bi bi-controller me-2"></i>Start Playing
             </a>
             <a href="howtoplay.php" class="btn btn-outline-light btn-lg">
