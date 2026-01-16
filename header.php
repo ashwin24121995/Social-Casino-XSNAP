@@ -130,12 +130,12 @@
           <ul class="dropdown-menu" aria-labelledby="gamesDropdown">
             <li><a class="dropdown-item" href="games.php"><i class="bi bi-grid-3x3 me-2"></i><strong>All Games</strong></a></li>
             <li><hr class="dropdown-divider" style="border-color: #FFD700;"></li>
-            <li><a class="dropdown-item" href="games/slots.php"><i class="bi bi-cash-coin me-2"></i>Slots</a></li>
-            <li><a class="dropdown-item" href="games/poker.php"><i class="bi bi-suit-spade me-2"></i>Poker</a></li>
-            <li><a class="dropdown-item" href="games/roulette.php"><i class="bi bi-circle me-2"></i>Roulette</a></li>
-            <li><a class="dropdown-item" href="games/dice.php"><i class="bi bi-dice-5 me-2"></i>Dice</a></li>
-            <li><a class="dropdown-item" href="games/mines.php"><i class="bi bi-grid-3x3-gap me-2"></i>Mines</a></li>
-            <li><a class="dropdown-item" href="games/chicken.php"><i class="bi bi-egg me-2"></i>Chicken</a></li>
+            <li><a class="dropdown-item" href="slots.php"><i class="bi bi-cash-coin me-2"></i>Slots</a></li>
+            <li><a class="dropdown-item" href="poker.php"><i class="bi bi-suit-spade me-2"></i>Poker</a></li>
+            <li><a class="dropdown-item" href="roulette.php"><i class="bi bi-circle me-2"></i>Roulette</a></li>
+            <li><a class="dropdown-item" href="dice.php"><i class="bi bi-dice-5 me-2"></i>Dice</a></li>
+            <li><a class="dropdown-item" href="mines.php"><i class="bi bi-grid-3x3-gap me-2"></i>Mines</a></li>
+            <li><a class="dropdown-item" href="chicken.php"><i class="bi bi-egg me-2"></i>Chicken</a></li>
           </ul>
         </li>
         
