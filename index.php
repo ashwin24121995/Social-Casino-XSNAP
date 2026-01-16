@@ -378,7 +378,7 @@
               <p class="card-text text-muted small">
                 Test your skills in classic poker games. Multiple variants including Texas Hold'em and more.
               </p>
-              <a href="dice.php" class="btn btn-sm" style="background: linear-gradient(145deg, #7B2CBF, #9D4EDD); color: white;">
+              <a href="poker.php" class="btn btn-sm" style="background: linear-gradient(145deg, #7B2CBF, #9D4EDD); color: white;">
                 Play Now <i class="bi bi-arrow-right ms-1"></i>
               </a>
             </div>
@@ -392,7 +392,7 @@
               <p class="card-text text-muted small">
                 Place your bets and watch the wheel spin. Classic European and American roulette available.
               </p>
-              <a href="dice.php" class="btn btn-sm" style="background: linear-gradient(145deg, #7B2CBF, #9D4EDD); color: white;">
+              <a href="roulette.php" class="btn btn-sm" style="background: linear-gradient(145deg, #7B2CBF, #9D4EDD); color: white;">
                 Play Now <i class="bi bi-arrow-right ms-1"></i>
               </a>
             </div>
